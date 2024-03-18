@@ -2,7 +2,7 @@
 Movie info application built with vanilla JavaScript that uses **version 3** of the [TMDB API](https://developers.themoviedb.org/3)
 ![pp](https://github.com/Devanshudd/POPCORN-PREMIERE/assets/100607040/03a1cfaf-3e81-4dc5-9a8b-0ba655cd470e)
 
-file:///home/devanshu/Downloads/pp.png
+
 
 
 <br>Netlfiy Link To View: [https://popcorn-premiere.vercel.app/](https://popcorn-premiere.vercel.app/)<br />
